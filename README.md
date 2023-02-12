@@ -3,4 +3,6 @@ I'm Alexies Jay Ocular and this project is for managing the README.md file. This
 # Authors
 - [alexiesjay](https://github.com/alexiesjay)
 # Sample code
+'''python
 printf( 'Hello World' );
+'''
