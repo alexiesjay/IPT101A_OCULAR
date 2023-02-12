@@ -1,5 +1,5 @@
 # Ocular's Project
-This project is for managing the README.md file.
+I'm Alexies Jay Ocular and this project is for managing the README.md file. This will be submitted to Sir Lord Francis Navarro.
 # Authors
 - [alexiesjay](https://github.com/alexiesjay)
 # Sample code
