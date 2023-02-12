@@ -4,5 +4,5 @@ I'm Alexies Jay Ocular and this project is for managing the README.md file. This
 - [alexiesjay](https://github.com/alexiesjay)
 # Sample code
 '''python
-printf( 'Hello World' );
+printf( 'Hello World' )
 '''
