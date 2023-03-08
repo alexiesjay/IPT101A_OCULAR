@@ -11,4 +11,10 @@ first commit
 
 second commit
 
-Revert changes made in commit 58dfc493b5c9c678d900aa1d67d9261ce93c25df
+third commit
+
+fourth commit
+
+first feature
+
+second feature
